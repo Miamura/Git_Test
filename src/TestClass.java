@@ -3,5 +3,6 @@ public class TestClass {
         //sout javadaki syso
 
         System.out.println("Git den merhaba ");
+        System.out.println("GitHub dan merhaba ");
     }
 }
